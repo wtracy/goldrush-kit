@@ -2,6 +2,7 @@ export { NFTCollectionTokenListView } from "./NFTs/NFTCollectionTokenListView/NF
 export { NFTDetailView } from "./NFTs/NFTDetailView/NFTDetailView";
 export { NFTWalletCollectionView } from "./NFTs/NFTWalletCollectionView/NFTWalletCollectionView";
 export { NFTWalletTokenListView } from "./NFTs/NFTWalletTokenListView/NFTWalletTokenListView";
+export { NFTPicker } from "./NFTs/NFTWalletTokenListView/NFTPicker";
 export { AddressActivityListView } from "./AddressActivityListView/AddressActivityListView";
 export { TokenBalancesListView } from "./TokenBalancesListView/TokenBalancesListView";
 export { TokenTransfersListView } from "./TokenTransfersListView/TokenTransfersListView";

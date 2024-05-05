@@ -27,6 +27,11 @@ export interface NFTWalletTokenListViewProps {
     address: string;
 }
 
+export interface NFTPickerProps {
+    chain_names: Chain[];
+    address: string;
+    on_nft_click: Function;
+}
 export interface NFTCollectionTokenListViewProps {
     chain_name: Chain;
     collection_address: string;
